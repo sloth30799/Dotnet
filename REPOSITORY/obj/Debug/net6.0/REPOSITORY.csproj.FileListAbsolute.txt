@@ -1,0 +1,17 @@
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\REPOSITORY.deps.json
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\REPOSITORY.runtimeconfig.json
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\REPOSITORY.dll
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\REPOSITORY.pdb
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\MODEL.dll
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\bin\Debug\net6.0\MODEL.pdb
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.csproj.AssemblyReference.cache
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.AssemblyInfoInputs.cache
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.AssemblyInfo.cs
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.csproj.CopyComplete
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.dll
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\refint\REPOSITORY.dll
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.pdb
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\REPOSITORY.genruntimeconfig.cache
+C:\Users\Thetys\source\repos\API_Training\REPOSITORY\obj\Debug\net6.0\ref\REPOSITORY.dll

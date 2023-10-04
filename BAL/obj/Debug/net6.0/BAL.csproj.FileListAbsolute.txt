@@ -1,0 +1,17 @@
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\ref\BAL.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\MODEL.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\REPOSITORY.dll
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\MODEL.pdb
+C:\Users\Thetys\source\repos\API_Training\BAL\bin\Debug\net6.0\REPOSITORY.pdb
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Thetys\source\repos\API_Training\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
