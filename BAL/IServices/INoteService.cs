@@ -13,6 +13,6 @@ namespace BAL.IServices
         Task<IEnumerable<Note>> GetAllNotes();
         Task CreateNote(CreateNoteDTO note);
         Task UpdateNote(Note note);
-        Task DeleteNote(Note note);
+        Task DeleteNote(int id);
     }
 }

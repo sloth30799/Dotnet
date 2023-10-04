@@ -40,9 +40,9 @@ namespace API.Controllers
         }
 
         [HttpDelete("DeleteNote")]
-        public async Task<ActionResult> DeleteNote(Note request)
+        public async Task<ActionResult> DeleteNote(int id)
         {
-            await _noteService.DeleteNote(request);
+            await _noteService.DeleteNote(id);
 
             return Ok(new { msg = "Delete Success!" });
         }

@@ -36,21 +36,21 @@ namespace BAL.Services
             await _unitOfWork.SaveAsyncChanges();
         }
 
-        public async Task DeleteNote(Note request)
+        public async Task DeleteNote(int id)
         {
-            if (request == null)
+            if (id == null)
             {
                 throw new ArgumentNullException("No request");
             }
 
-            var note = _unitOfWork.Note.GetById(request.Id);
+            var note = await _unitOfWork.Note.GetById(id);
 
             if(note == null)
             {
                 throw new ArgumentNullException("Not Found!");
             }
 
-            _unitOfWork.Note.Delete(request);
+            _unitOfWork.Note.Delete(note);
             await _unitOfWork.SaveAsyncChanges();
         }
 
@@ -71,8 +71,9 @@ namespace BAL.Services
             {
                 throw new ArgumentNullException("Not Found!");
             }
-
-            _unitOfWork.Note.Update(request);
+            note.Name = request.Name;
+            note.Id = request.Id;
+            _unitOfWork.Note.Update(note);
             await _unitOfWork.SaveAsyncChanges();
         }
     }
